@@ -271,7 +271,7 @@ Below is a list of all files found in `data.psarc` and a short description.
 ### Hair Models (600-799)  
 - **601** - Hatsune Miku Original Hair Model  
 - **602** - Hatsune Miku Append(?) Hair Model  
-- **603** - Solitude Hair Model  
+- **603** - Deep Sky Hair Model 
 - **604** - Violet Butterfly Hair Model  
 - **605** - Memoria Hair Model  
 - **606** - Blue Hair Texture  
@@ -280,7 +280,7 @@ Below is a list of all files found in `data.psarc` and a short description.
 - **609** - Dark Angel Hair Model  
 - **610** - Summer Memories Hair Model  
 - **611** - Emerald Hair Model  
-- **612** - Solitude Hair Model  
+- **612** - Solitude Hair Model
 - **613** - Divine Goddess Model  
 - **614** - F0newearl Style Hair Model  
 - **615** - Out and About Hair Model  
@@ -298,7 +298,7 @@ Below is a list of all files found in `data.psarc` and a short description.
 - **631** - Kitty Cat Hair Model  
 - **632** - Magician Hair Model  
 - **633** - Little Red Hair Model  
-- **635** - ?  
+- **635** - Vintage Dress Hair Model  
 - **637** - Hatsune Miku Butterfly Hair Model  
 - **639** - Ichi-no-Sakura Blossom Hair Model  
 - **640** - Linkage Hair Model  
@@ -326,9 +326,41 @@ Below is a list of all files found in `data.psarc` and a short description.
 - **709** - Marionette Hair Model  
 - **710** - Siren Hair Model  
 - **711** - Moonlight Butterfly Hair Model  
+- **712** - Natural Hair Model  
+- **713** - Liar Hair Model 
+- **714** - Urban Pop Hair Model 
+- **715** - Rosa Bianca Hair Model
+- **716** - Breath With You Hair Model
+- **717** - Rainbow Lines Hair Model
+- **718** - Orange Blossom Hair Model 
+- **719** - Magical Mirai Hair Model 
+- **722** - Puffy Pastels Hair Model 
+- **733** - ? (single Ponytail with Blue Scrunchy) 
 
+### Acessory Models (800-9)
+- **801** - Deep Sky Glasses Model 
+- **802** - Factory Tirant Cap Model 
+- **803** - Divine Goddness Neck Cloud Model 
+- **804** - Kitty Cap Neko Ears Model 
+- **805** - Kitty Cat Neko Ear Headset Model 
+- **806** - Magician Top Hat Model 
+- **807** - Out and About Glasses Model 
+- **809** - Ichi-no-Sakura Blossom Hat Model 
+- **810** - Kitty Cat Tail Model 
+- **812** - Heart Hunter Wings Model 
+- **815** - Natural Glasses Model 
+- **816** - Orbit Head Adorment Model 
+- **817** - Vintage Dress Crown Model 
+- **818** - Demons and The Dead Kitsune Mask Model 
+- **901** - Siren Head Bowl Model 
+- **902** - Marionnette Clown Mask Model 
+- **903** - Marionnette Bowl Necktie Model 
+- **905** - Magical Mirai Top Hat Model 
+- **906** - Rosa Bianca Gala Mask Model 
+- **907** - Marionnette Clown Hat Model 
+- **908** - Chat Noir Neko Ears Model 
+- **909** - Breath With You Head Adorment Model 
 ---
 
 ### Notes  
-- `(?)` indicates uncertain descriptions.  
-- Duplicate IDs (e.g., **413**, **621**) may need verification. 
+- `(?)` indicates uncertain descriptions.
