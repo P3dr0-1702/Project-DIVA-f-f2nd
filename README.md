@@ -15,7 +15,13 @@ As of writing this, none of this has been tested with PS3 data — it all refers
 
 ---
 
-## For Tutorials
- Project DIVA f [not done yet]
- [Project DIVA f 2nd](Project DIVA f2nd)
- Project DIVA X [not done yet]
+## Modding Tutorials
+
+- **Project DIVA f** *(Not Started)*  
+  A work-in-progress tutorial for Project DIVA f.
+
+- **[Project DIVA f2nd](Project-DIVA-f2nd/README.md)**  
+  Tutorial for Project DIVA f2nd (click to view details).
+
+- **Project DIVA X** *(Not Started)*  
+  Planned tutorial for Project DIVA X.
