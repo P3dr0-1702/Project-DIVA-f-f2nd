@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<ConfigurationList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Configurations>
+    <Configuration>
+      <Name>Projec DIVA f 2nd (Vita)</Name>
+      <BoneDatabaseFilePath>C:\Users\aea\Desktop\Code\BONE_DATA.BON</BoneDatabaseFilePath>
+    </Configuration>
+  </Configurations>
+</ConfigurationList>
