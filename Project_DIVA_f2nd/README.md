@@ -364,3 +364,10 @@ Below is a list of all files found in `data.psarc` and a short description.
 
 ### Notes  
 - `(?)` indicates uncertain descriptions.
+
+## Kagamine Rin Items (`rinitm[ID]`)  
+
+### Modules
+
+- **000** - Rin's Face
+- **001** - Kgamine Rin Original Module
